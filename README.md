@@ -22,7 +22,7 @@ a possibility to add a repository is provided.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/brenner-tobias/ha-addons
+https://github.com/raizyr/ha-addons
 ```
 
 ## Add-ons provided by this repository
@@ -86,19 +86,19 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/v4.2.10
-[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/v4.2.10/README.md
-[cloudflared-issue]: https://github.com/brenner-tobias/addon-cloudflared/issues
+[addon-cloudflared]: https://github.com/raizyr/addon-cloudflared/tree/v4.2.10
+[addon-doc-cloudflared]: https://github.com/raizyr/addon-cloudflared/blob/v4.2.10/README.md
+[cloudflared-issue]: https://github.com/raizyr/addon-cloudflared/issues
 [cloudflared-version-shield]: https://img.shields.io/badge/version-v4.2.10-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/brenner-tobias/ha-addons/pipelines
-[issue]: https://github.com/brenner-tobias/ha-addons/issues
-[license-shield]: https://img.shields.io/github/license/brenner-tobias/ha-addons.svg
+[gitlabci-shield]: https://gitlab.com/raizyr/ha-addons/badges/master/pipeline.svg
+[gitlabci]: https://gitlab.com/raizyr/ha-addons/pipelines
+[issue]: https://github.com/raizyr/ha-addons/issues
+[license-shield]: https://img.shields.io/github/license/raizyr/ha-addons.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html

@@ -299,15 +299,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-installation]: https://github.com/brenner-tobias/addon-cloudflared#installation
-[addon-wiki]: https://github.com/brenner-tobias/addon-cloudflared/wiki
+[addon-installation]: https://github.com/raizyr/addon-cloudflared#installation
+[addon-wiki]: https://github.com/raizyr/addon-cloudflared/wiki
 [advancedconfiguration]: https://www.home-assistant.io/getting-started/configuration/
 [cloudflare-sssa]: https://www.cloudflare.com/en-gb/terms/
-[how-tos]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos
+[how-tos]: https://github.com/raizyr/addon-cloudflared/wiki/How-tos
 [nginx_proxy_manager]: https://github.com/hassio-addons/addon-nginx-proxy-manager
-[tobias]: https://github.com/brenner-tobias
-[troubleshooting]: https://github.com/brenner-tobias/addon-cloudflared/wiki/Troubleshooting
+[tobias]: https://github.com/raizyr
+[troubleshooting]: https://github.com/raizyr/addon-cloudflared/wiki/Troubleshooting
 [disablechunkedencoding]: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/configuration/configuration-file/ingress#disablechunkedencoding
 [create-remote-managed-tunnel]: https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide/#1-create-a-tunnel
-[addon-remote-tunnel]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos#how-to-configure-remote-tunnels
-[addon-remote-or-local]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos#local-vs-remote-managed-tunnels
+[addon-remote-tunnel]: https://github.com/raizyr/addon-cloudflared/wiki/How-tos#how-to-configure-remote-tunnels
+[addon-remote-or-local]: https://github.com/raizyr/addon-cloudflared/wiki/How-tos#local-vs-remote-managed-tunnels

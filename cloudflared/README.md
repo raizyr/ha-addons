@@ -29,6 +29,6 @@ add-on.
 [domainarticle]: https://www.linkedin.com/pulse/what-do-domain-name-how-get-one-free-tobias-brenner?trk=public_post-content_share-article
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[releases-shield]: https://img.shields.io/github/v/release/brenner-tobias/addon-cloudflared?include_prereleases
-[releases]: https://github.com/brenner-tobias/addon-cloudflared/releases
-[wiki]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos
+[releases-shield]: https://img.shields.io/github/v/release/raizyr/addon-cloudflared?include_prereleases
+[releases]: https://github.com/raizyr/addon-cloudflared/releases
+[wiki]: https://github.com/raizyr/addon-cloudflared/wiki/How-tos
